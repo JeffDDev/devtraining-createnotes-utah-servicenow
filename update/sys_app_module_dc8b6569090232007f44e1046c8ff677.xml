@@ -3,12 +3,12 @@
         <active>true</active>
         <application display_value="CreateNotes">c08b6569090232007f44e1046c8ff675</application>
         <assessment/>
-        <content_page/>
         <device_type/>
         <filter/>
         <hint/>
         <homepage/>
         <image/>
+        <karuna_route/>
         <link_type>LIST</link_type>
         <map_page/>
         <mobile_title>Notes</mobile_title>
@@ -18,7 +18,10 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
+        <require_confirmation>false</require_confirmation>
         <roles>x_snc_createnotes.note_user</roles>
+        <route/>
+        <screen/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-10 15:48:50</sys_created_on>
@@ -37,6 +40,7 @@
         <timeline_page/>
         <title>Notes</title>
         <uncancelable>false</uncancelable>
+        <ux_list/>
         <view_name/>
         <window_name/>
     </sys_app_module>
